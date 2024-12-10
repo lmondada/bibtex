@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/jschaf/bibtex/ast"
-	"github.com/jschaf/bibtex/render"
+	"github.com/lmondada/bibtex/ast"
+	"github.com/lmondada/bibtex/render"
 )
 
 // Resolver is an in-place mutation of an ast.Node to support resolving Bibtex

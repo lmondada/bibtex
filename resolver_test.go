@@ -3,10 +3,10 @@ package bibtex
 import (
 	"testing"
 
-	"github.com/jschaf/bibtex/asts"
+	"github.com/lmondada/bibtex/asts"
 
 	"github.com/google/go-cmp/cmp"
-	"github.com/jschaf/bibtex/ast"
+	"github.com/lmondada/bibtex/ast"
 )
 
 func TestSimplifyEscapedTextResolver(t *testing.T) {

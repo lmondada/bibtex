@@ -1,6 +1,6 @@
 # Bibtex parser in Go
 
-https://pkg.go.dev/github.com/jschaf/bibtex
+https://pkg.go.dev/github.com/lmondada/bibtex
 
 A parser for [Bibtex][bibtex-wiki] files, a reference formatting language, in Go. I needed a parser for my static site generator and the existing library https://github.com/caltechlibrary/bibtex was difficult to integrate into idiomatic Go.
 
@@ -9,7 +9,7 @@ A parser for [Bibtex][bibtex-wiki] files, a reference formatting language, in Go
 - Reasonably fast: parses a 30,000 line Bibtex file in 16 ms. 
 
 ```shell script
-go get github.com/jschaf/bibtex
+go get github.com/lmondada/bibtex
 ```
 
 ## Example: read a bibtex file into an AST

@@ -8,7 +8,7 @@ import (
 	"io"
 	"os"
 
-	"github.com/jschaf/bibtex/ast"
+	"github.com/lmondada/bibtex/ast"
 )
 
 // If src != nil, readSource converts src to a []byte if possible;

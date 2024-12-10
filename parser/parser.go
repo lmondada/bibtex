@@ -6,9 +6,9 @@ import (
 	gotok "go/token"
 	"strings"
 
-	"github.com/jschaf/bibtex/ast"
-	"github.com/jschaf/bibtex/scanner"
-	"github.com/jschaf/bibtex/token"
+	"github.com/lmondada/bibtex/ast"
+	"github.com/lmondada/bibtex/scanner"
+	"github.com/lmondada/bibtex/token"
 )
 
 // The parser structure holds the parser's internal state.

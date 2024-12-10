@@ -4,8 +4,8 @@ import (
 	"testing"
 
 	"github.com/google/go-cmp/cmp"
-	"github.com/jschaf/bibtex/ast"
-	"github.com/jschaf/bibtex/parser"
+	"github.com/lmondada/bibtex/ast"
+	"github.com/lmondada/bibtex/parser"
 )
 
 func TestResolveAuthors_single(t *testing.T) {

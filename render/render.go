@@ -7,7 +7,7 @@ import (
 	"unicode"
 	"unicode/utf8"
 
-	"github.com/jschaf/bibtex/ast"
+	"github.com/lmondada/bibtex/ast"
 )
 
 type NodeRenderer interface {

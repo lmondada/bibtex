@@ -8,8 +8,8 @@ import (
 
 	"github.com/google/go-cmp/cmp"
 	"github.com/google/go-cmp/cmp/cmpopts"
-	"github.com/jschaf/bibtex/ast"
-	"github.com/jschaf/bibtex/asts"
+	"github.com/lmondada/bibtex/ast"
+	"github.com/lmondada/bibtex/asts"
 )
 
 func TestNew_resolve(t *testing.T) {

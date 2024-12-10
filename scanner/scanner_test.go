@@ -9,7 +9,7 @@ import (
 
 	"github.com/google/go-cmp/cmp"
 
-	"github.com/jschaf/bibtex/token"
+	"github.com/lmondada/bibtex/token"
 )
 
 type tokClass int

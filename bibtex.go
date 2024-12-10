@@ -5,9 +5,9 @@ import (
 	gotok "go/token"
 	"io"
 
-	"github.com/jschaf/bibtex/ast"
-	"github.com/jschaf/bibtex/parser"
-	"github.com/jschaf/bibtex/render"
+	"github.com/lmondada/bibtex/ast"
+	"github.com/lmondada/bibtex/parser"
+	"github.com/lmondada/bibtex/render"
 )
 
 // CiteKey is the citation key for a Bibtex entry, like the "foo" in:

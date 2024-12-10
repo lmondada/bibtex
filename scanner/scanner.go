@@ -11,7 +11,7 @@ import (
 	"unicode"
 	"unicode/utf8"
 
-	"github.com/jschaf/bibtex/token"
+	"github.com/lmondada/bibtex/token"
 )
 
 const (

@@ -1,4 +1,4 @@
-module github.com/jschaf/bibtex
+module github.com/lmondada/bibtex
 
 go 1.22.4
 
